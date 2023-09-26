@@ -8,7 +8,7 @@
  * @size: Number of elements in the array
 */
 
-void print_array(conmst int *array, size_t size)
+void print_array(const int *array, size_t size)
 {
 	size_t i;
 
